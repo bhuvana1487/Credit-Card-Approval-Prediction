@@ -177,7 +177,7 @@ Support Vector Machine
 
 ## Preprocessing Pipeline
 
-** Numerical feature scaling**
+**Numerical feature scaling**
 
 **Handling Class Imbalance**
 
